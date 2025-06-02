@@ -17,23 +17,8 @@ public class Lab013_StringFirstLetter {
                 inword=false;
             }
 
-
-
         }
 
-
-
-
-
-
-
-
-
-
-
-
     }
-
-
 
 }
