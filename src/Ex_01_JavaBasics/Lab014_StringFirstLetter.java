@@ -1,6 +1,6 @@
 package Ex_01_JavaBasics;
 
-public class Lab013_StringFirstLetter {
+public class Lab014_StringFirstLetter {
     public static void main(String[] args) {
         String a="Java programming 1234 practice!!";
         boolean inword=false;
