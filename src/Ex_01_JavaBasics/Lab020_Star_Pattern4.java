@@ -22,7 +22,7 @@ public class Lab020_Star_Pattern4 {
             for(int k=1;k<=i;k++){
                 System.out.print("*");
             }
-            System.out.println("");
+            System.out.println(" ");
         }
 
         for(int i=1;i<=4;i++){
@@ -33,7 +33,7 @@ public class Lab020_Star_Pattern4 {
             for(int k=3;k>=i;k--){
                 System.out.print("*");
             }
-            System.out.println("");
+            System.out.println();
         }
 
 
