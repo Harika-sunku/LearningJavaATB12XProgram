@@ -11,12 +11,12 @@ public class Mobile {
         this.brand=brand;
         this.price=price;
         System.out.println("Mobile Brand: " + brand);
-        System.out.println("Mobile Price: ₹" + price);
+        System.out.println("Mobile Price: " + price);
     }
 /*
     void displayDetails() {
         System.out.println("Mobile Brand: " + brand);
-        System.out.println("Mobile Price: ₹" + price);
+        System.out.println("Mobile Price: " + price);
     }
 
  */
